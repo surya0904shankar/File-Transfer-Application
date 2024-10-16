@@ -22,6 +22,10 @@ git clone https://github.com/surya0904shankar/File-Transfer-Application.git
 cd File-Transfer-Application
 Install dependencies (if any are listed in requirements.txt):
 
+git clone https://github.com/surya0904shankar/File-Transfer-Application.git
+cd File-Transfer-Application
+
+
 bash
 Copy code
 pip install -r requirements.txt
